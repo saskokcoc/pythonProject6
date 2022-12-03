@@ -1,5 +1,4 @@
 def divider(a, b):
-
    try:
 
        return a / b
